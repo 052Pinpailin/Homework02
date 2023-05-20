@@ -1,0 +1,15 @@
+E:\DNA\obj\Debug\net7.0\DNA.csproj.AssemblyReference.cache
+E:\DNA\obj\Debug\net7.0\DNA.GeneratedMSBuildEditorConfig.editorconfig
+E:\DNA\obj\Debug\net7.0\DNA.AssemblyInfoInputs.cache
+E:\DNA\obj\Debug\net7.0\DNA.AssemblyInfo.cs
+E:\DNA\obj\Debug\net7.0\DNA.csproj.CoreCompileInputs.cache
+E:\DNA\bin\Debug\net7.0\DNA.exe
+E:\DNA\bin\Debug\net7.0\DNA.deps.json
+E:\DNA\bin\Debug\net7.0\DNA.runtimeconfig.json
+E:\DNA\bin\Debug\net7.0\DNA.dll
+E:\DNA\bin\Debug\net7.0\DNA.pdb
+E:\DNA\obj\Debug\net7.0\DNA.dll
+E:\DNA\obj\Debug\net7.0\refint\DNA.dll
+E:\DNA\obj\Debug\net7.0\DNA.pdb
+E:\DNA\obj\Debug\net7.0\DNA.genruntimeconfig.cache
+E:\DNA\obj\Debug\net7.0\ref\DNA.dll
